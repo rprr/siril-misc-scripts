@@ -16,7 +16,7 @@ For Astrophotography
   `source /link/to/python_env/bin/activate`
 - Run the script\
   `./siril_psf_analyzer.py my_fits_file.fit`
-- Your output should look like this
+- Other than some log messages, your output should look like this
 ```
 ------------------------------------------------------------
 ===========================================================================
