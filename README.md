@@ -10,6 +10,7 @@ For Astrophotography
 - Needs a fits file specified. 
 - Only tested on the Seestar S30 Pro (OSC sensor)
 - Finds stars and returns statistics of the PSF
+- ** CAVEAT **: used some AI (google) prompts to create this code
 
 ## Usage
 - Activate your python environment\
